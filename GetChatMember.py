@@ -36,4 +36,4 @@ updater.idle()
 
 result : 
 
-{'user': {'id': 343671513, 'first_name': 'SOMTHING', 'is_bot': False, 'username': 'statiic', 'language_code': 'fa'}, 'status': 'creator', 'until_date': None}
+{'user': {'id': ********, 'first_name': 'SOMTHING', 'is_bot': False, 'username': '*******', 'language_code': 'fa'}, 'status': 'creator', 'until_date': None}
