@@ -16,7 +16,7 @@ updater = Updater("YOUR_TOKEN")
 
 
 def GetChatMember(bot, update):
-		#paramet
+
     var = bot.get_chat_member(chat_id = update.message.chat_id, user_id = update.message.from_user.id)
     print(var)
 
